@@ -1,0 +1,4 @@
+hand_landmarker.task
+my_custom_signs.pkl
+__pycache__/
+*.pyc
